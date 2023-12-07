@@ -1,6 +1,6 @@
 # Storing and Querying Personal Genomic Data in Solid Pods
-### Elias D. Crum[^*], Gokhan Ertaylan[^], Ruben Taelman[*], Bart Buelens[^], and Ruben Verborgh [*]
-(^ VITO / * IDLab, Ghent University)
+### Elias D. Crum[1,2], Gokhan Ertaylan[1], Ruben Taelman[2], Bart Buelens[1], and Ruben Verborgh [2]
+(1: VITO / 2: IDLab, Ghent University)
 
 **Abstract**
 Medical care is in the process of being fundamentally transformed, away from a one-size-fits-all approach and toward a personalized, genetically-informed approach. Since the sequencing of the first human genome two decades ago, technological advancements have recently allowed for the cost of sequencing a whole human genome to reach only around 300 euros. In combination with the cost of genome sequencing continually decreasing, research linking genetic data to medical diagnosis and treatment have introduced an augmented approach to medical practice -- personalized medicine. Concurrently, in the modern age of digital data, privacy concerns regarding collection and storage of sensitive personal data, such as personal genome sequence data, has resulted in public debate and legal regulation. Currently, there are many challenges to applying the concepts of personalized medicine to medical practice. Here we identify three such fundamental challenges associated with the storing, querying, and privacy controls of personal genome sequences, a necessary prerequisite of personalized medicine. We also propose a potentially attractive solution involving the Solid ecosystem and Linked-data, especially from the perspectives of patients and clinicians.
